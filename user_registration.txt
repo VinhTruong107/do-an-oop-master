@@ -1,0 +1,1 @@
+ID của user: 1, tên: vinh, địa chỉ: 123, số điện thoại: 123, username: vinh, password: 123

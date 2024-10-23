@@ -1,0 +1,1 @@
+ID của manager: 1, tên: vinh1, địa chỉ: 123, số điện thoại: 123, username: vinh1, password: 123
